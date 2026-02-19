@@ -108,7 +108,7 @@ yesBtn.addEventListener("click", () => {
       <p style="font-size:22px;margin-bottom:25px;">
         You're officially my favorite person 😎
       </p>
-      <img src="/another-one-dj-khaled.gif"
+      <img src="./another-one-dj-khaled.gif"
            style="max-width:320px;border-radius:15px;">
     </div>
   `;
