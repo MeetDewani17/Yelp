@@ -12,7 +12,7 @@ const texts = [
   "Your mouse seems confused 🖱️",
   "Try again... but correctly 😌",
   "Permanent sounds nice, right? 😎",
-  "This is a YES-only zone 🚧" // why do i not see this
+  "This is a YES-only zone 🚧"
 ];
 
 function moveNoButton() {
